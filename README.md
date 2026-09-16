@@ -211,7 +211,7 @@ If you use this pipeline in your research, please get in touch — details in th
 → Class imbalance during training. Label more inclusion examples to balance your training set.
 
 **"No annotations found for training"**
-→ You are trying to use the QuPath GUI classifier dialog — this pipeline bypasses the GUI. Use the script modes only.
+→ You are trying to use the QuPath GUI classifier dialog - this pipeline bypasses the GUI. Use the script modes only.
 
 **Annotations locked error**
 → Right-click each annotation in the Annotations panel → Unlock, then re-run.
@@ -220,10 +220,10 @@ If you use this pipeline in your research, please get in touch — details in th
 
 ## Licence
 
-MIT Licence — free to use, modify, and distribute with attribution.
+MIT Licence - free to use, modify, and distribute with attribution.
 
 ---
 
 ## Contact
 
-Matvey Evtushenko — matvey.evtushenko@kcl.ac.uk | [LinkedIn](https://linkedin.com/in/matvey-evtushenko) | Maurice Wohl Clinical Neuroscience Institute, King's College London
+Matvey Evtushenko - matvey.evtushenko@kcl.ac.uk | [LinkedIn](https://linkedin.com/in/matvey-evtushenko) | Maurice Wohl Clinical Neuroscience Institute, King's College London
